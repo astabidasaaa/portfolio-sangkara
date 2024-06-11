@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gni-website",
+    "title": "Official Website of the National Gallery of Indonesia",
+    "description": "<p>The Official Website of the National Gallery of Indonesia (gni.kemdikbud.go.id) stands as a digital gateway to the country's rich artistic heritage. Leveraging modern technologies and user-centric design, the website serves as an immersive platform for art enthusiasts, researchers, and visitors alike.</p><p>Built using Next.js, the website boasts seamless performance and rapid page loading, ensuring an optimal user experience. Tailwind CSS provides a sleek and responsive design framework, enhancing accessibility across various devices and screen sizes.</p><p>With Strapi CMS powering the backend, content management becomes streamlined and efficient. Daily visitor averages surpass 3000, reflecting the website's popularity and significance in promoting art and culture from famous Indonesian artists.</p>",
+    "key_features": [
+      "Official Articles: Engaging content offers insights into exhibitions, artists, and cultural events.",
+      "Virtual Art Gallery: Immersive digital 3D galleries showcase the richness and diversity of Indonesian art.",
+      "Program & Activity Publications: Stay informed about upcoming events, workshops, and educational programs.",
+      "Visitor Registration: Seamless registration process enables visitors to participate in events."
+    ],
+    "skills": [
+      "Next JS",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Strapi JS",
+      "REST APIs"
+    ],
+    "link": {
+      "label": "Official Website of the National Gallery of Indonesia",
+      "thumbnail_image": "homepage_gni.webp",
+      "url": "https://gni.kemdikbud.go.id/"
+    }
+  },
+  {
+    "id": "sri-astari-rasjid-website",
+    "title": "Artist portfolio website: Sri Astari Rasjid",
+    "description": "<p>The Artist Portfolio Website of Sri Astari Rasjid serves as an online showcase of the artist's prolific body of work and creative journey. Designed to encapsulate her artistic vision and narrative, the website offers a comprehensive insight into Sri Astari Rasjid's artistic endeavors. By seamlessly integrating artistic expression with digital storytelling, the Artist Portfolio Website of Sri Astari Rasjid emerges as a captivating platform that celebrates creativity, cultural heritage, and artistic legacy.</p>",
+    "key_features": [
+      "Art Display: The website elegantly presents an extensive collection of artworks created by Sri Astari Rasjid, providing visitors with a visual journey through her diverse portfolio.",
+      "Biography and Exhibition Archives: Engaging biographical content delves into the artist's background, inspirations, and artistic philosophy. Additionally, detailed records of both solo and group exhibitions offer a glimpse into her artistic evolution and achievements.",
+      "Digital and Scanned Publications: Visitors can explore a curated selection of digital and scanned publications that document Sri Astari Rasjid's artistic contributions, insights, and collaborations."
+    ],
+    "skills": [
+      "Next JS",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Strapi JS",
+      "REST APIs"
+    ],
+    "link": {
+      "label": "Sri Astari Rasjid Website",
+      "thumbnail_image": "homepage_sar.webp",
+      "url": "https://sriastarirasjid.com/"
+    }
+  }
+]
