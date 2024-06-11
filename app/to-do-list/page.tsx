@@ -92,7 +92,7 @@ const ToDoListPage = () => {
     if (typeof window !== "undefined" && window.localStorage) {
       let listFromLocalStorage = JSON.parse(localStorage.getItem("todolist")!);
 
-      setItems(listFromLocalStorage);
+      if (listFromLocalStorage) setItems(listFromLocalStorage);
     }
   }, []);
 
